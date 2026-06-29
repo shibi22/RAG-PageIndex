@@ -1,0 +1,60 @@
+[
+  {
+    "total_page_number": 3
+  },
+  {
+    "total_token": 3065
+  },
+  {
+    "toc_content": null,
+    "toc_page_list": [],
+    "page_index_given_in_toc": "no"
+  },
+  {
+    "message": "len(group_texts): 1"
+  },
+  {
+    "message": "generate_toc: [{'structure': '1', 'title': 'PREPARING FOR AN INTERVIEW', 'physical_index': '<physical_index_1>'}, {'structure': '1.1', 'title': 'BEFORE THE INTERVIEW', 'physical_index': '<physical_index_1>'}, {'structure': '1.2', 'title': 'DAY OF THE INTERVIEW', 'physical_index': '<physical_index_1>'}, {'structure': '1.3', 'title': 'DURING THE INTERVIEW', 'physical_index': '<physical_index_1>'}, {'structure': '1.4', 'title': 'AFTER THE INTERVIEW', 'physical_index': '<physical_index_1>'}, {'structure': '2', 'title': 'DRESS FOR SUCCESS', 'physical_index': '<physical_index_1>'}, {'structure': '3', 'title': 'TYPES OF INTERVIEWS AND TIPS FOR EACH TYPE', 'physical_index': '<physical_index_2>'}, {'structure': '4', 'title': 'TYPES OF INTERVIEW QUESTIONS AND COMMON EXAMPLES', 'physical_index': '<physical_index_2>'}, {'structure': '5', 'title': 'QUESTIONS TO ASK DURING THE INTERVIEW', 'physical_index': '<physical_index_3>'}, {'structure': '6', 'title': 'THANK YOU NOTE EXAMPLE', 'physical_index': '<physical_index_3>'}]"
+  },
+  {
+    "message": "convert_physical_index_to_int: [{'structure': '1', 'title': 'PREPARING FOR AN INTERVIEW', 'physical_index': 1}, {'structure': '1.1', 'title': 'BEFORE THE INTERVIEW', 'physical_index': 1}, {'structure': '1.2', 'title': 'DAY OF THE INTERVIEW', 'physical_index': 1}, {'structure': '1.3', 'title': 'DURING THE INTERVIEW', 'physical_index': 1}, {'structure': '1.4', 'title': 'AFTER THE INTERVIEW', 'physical_index': 1}, {'structure': '2', 'title': 'DRESS FOR SUCCESS', 'physical_index': 1}, {'structure': '3', 'title': 'TYPES OF INTERVIEWS AND TIPS FOR EACH TYPE', 'physical_index': 2}, {'structure': '4', 'title': 'TYPES OF INTERVIEW QUESTIONS AND COMMON EXAMPLES', 'physical_index': 2}, {'structure': '5', 'title': 'QUESTIONS TO ASK DURING THE INTERVIEW', 'physical_index': 3}, {'structure': '6', 'title': 'THANK YOU NOTE EXAMPLE', 'physical_index': 3}]"
+  },
+  {
+    "mode": "process_toc_with_page_numbers",
+    "accuracy": 1.0,
+    "incorrect_results": []
+  },
+  {
+    "message": "Checking title appearance in start concurrently"
+  },
+  {
+    "message": "Response: {}"
+  },
+  {
+    "message": "Response: {}"
+  },
+  {
+    "message": "Response: {}"
+  },
+  {
+    "message": "Response: {}"
+  },
+  {
+    "message": "Response: {}"
+  },
+  {
+    "message": "Response: {}"
+  },
+  {
+    "message": "Response: {}"
+  },
+  {
+    "message": "Response: {}"
+  },
+  {
+    "message": "Response: {}"
+  },
+  {
+    "message": "Response: {}"
+  }
+]

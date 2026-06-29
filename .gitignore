@@ -1,6 +1,7 @@
-.ipynb_checkpoints
-__pycache__
-.DS_Store
-.env*
 .venv/
-logs/
+__pycache__/
+.env
+workspace/
+scratch/
+*.pdf
+.DS_Store
